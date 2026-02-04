@@ -1,5 +1,5 @@
 # 💫 About Me:
--🚀 Passionate about **software development** and **AI-based applications**
+- 🚀 Passionate about **software development** and **AI-based applications**
 - 🤖 Interested in **Agentic AI**, **automation systems**, and **intelligent software**
 - 🧠 Strong fundamentals in **computer science and problem-solving**
 - 🛠️ Love building projects that solve **real-world problems using code**
