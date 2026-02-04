@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m passionate about learning research methods, data analysis, and applying technology to solve real-world problems. I enjoy exploring programming, AI-based solutions, and building projects that strengthen my research and technical skills.
+🔬 Currently learning **Research Methodology**, **Data Analysis**, and **Scientific Writing**
+- 🤖 Interested in **AI-driven systems**, **automation**, and **problem-solving**
+- 🧠 Strong foundation in **programming and computer science concepts**
+- 🚀 Passionate about building projects that combine **research + technology**
 
 
 ## 🌐 Socials:
