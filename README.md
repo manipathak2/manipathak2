@@ -5,6 +5,13 @@
 - 🛠️ Love building projects that solve **real-world problems using code**
 
 
+ 🌱 Goals
+- Become a **skilled software engineer**
+- Work on **AI-powered products**
+- Contribute to **open-source projects**
+- 
+⭐ *“Code, automate, and innovate.”*
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manipathak2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manipathak2207@gmail.com) 
 
